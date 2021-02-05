@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(60deg,rgba(255,165,150,0.5)5%,rgba(0,228,255,0.35)),url(../html1/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#mainsection{
+    background-color: white;
+    width: 18%;
+    padding: 50px;
+    padding-bottom: 80px;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 5px;
+    font-family:  ;
+    
+}

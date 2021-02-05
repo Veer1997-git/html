@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+}
+
+#class{
+    width: 500px; height: 500px;
+    background-color: coral;
+    position: relative;
+}
+
+#stud1{
+    width: 100px; height: 100px;
+    background-color: cornflowerblue;
+    position: absolute;
+    bottom:  0;
+}
+
+#stud2{
+    width: 100px; height: 100px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+}
+
+#stud3{
+    width: 100px; height: 100px;
+    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+}
+
+#stud4{
+    width: 100px; height: 100px;
+    background-color: black;
+    position: absolute;
+    bottom: right 0% ;
+}
+
+input{
+    margin: 20px;
+    padding: 5px;
+}
+
+#img{
+    width: 100%;
+    
+}
+
+#inp{
+    margin: 50px;
+
+}
+
+input{
+    width: 300px;
+    padding: 10px;
+    position: relative;
+}
+
+span{
+    position: absolute;
+    z-index: 1;
+    margin-bottom: 500px;
+    margin-right: 40px;
+
+}
